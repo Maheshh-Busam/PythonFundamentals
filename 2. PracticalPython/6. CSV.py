@@ -12,6 +12,7 @@ with open("courses.csv", "r", encoding="utf-8") as file:
         print(row["name"], row["level"])
 
 # Each row behaves like a dictionary, with column names as keys.
+# ---------------------------------------------------------
 
 # To write a CSV file:
 

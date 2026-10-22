@@ -7,3 +7,4 @@
 
 - Classes, type hints, dataclasses.
 - Files, JSON, CSV
+- async / await basics.
