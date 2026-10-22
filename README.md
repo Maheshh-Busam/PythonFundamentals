@@ -6,3 +6,4 @@
 **2. Practical Python**
 
 - Classes, type hints, dataclasses.
+- Files, JSON, CSV
