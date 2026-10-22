@@ -23,4 +23,4 @@ with open("results.csv", "w", encoding="utf-8") as file:
     writer.writerow(["Python", 90])
     writer.writerow(["SQL", 85])
 
-# # check the 'results.csv' file is created on root folder
+# check the 'results.csv' file is created on root folder
